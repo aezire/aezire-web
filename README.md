@@ -1,3 +1,3 @@
-# Aezire Inc.
+# Aezire Website
 
 Official Website of Aezire Inc.
